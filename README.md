@@ -21,3 +21,4 @@
 
 1. Define a value for PATH in config.properties (this path will be use to scan sub-folders)
 2. Allow and disallow rules needed
+
